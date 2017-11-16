@@ -9,7 +9,8 @@ The script retrives all controls/lamps from the NetHome server and matches your 
 ## Requirements
 - NetHomeServer (http://opennethome.org/)
 - IFTTT Account (https://ifttt.com) connected to your google account.
-- IFTTT Applet: (As the screenshot below)
+- IFTTT Maker account: https://platform.ifttt.com/maker (Free to use)
+- IFTTT Applet: (As the screenshot below, which is created in the "maker" dashboard)
 
 Note that the applet is not possible to publish as public since it uses the webhook service.
 
