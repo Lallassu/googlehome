@@ -31,7 +31,11 @@ Test if the script can execute:
 1. Run the script on a server (I use an Raspberry PI 2). You can modify the "start.sh" script and make a cronjob for it in order to always make the script execute and restart if it fails.
 
     */1 * * * * /bin/bash /path/to/start.sh
+    
+You can now view output of the script in the screen:
 
+    screen -r ghome_server
+    
 2. Create an IFTTT applet like the screenshot shows. The only required change is the URL.
 <p align="center">
   <img src="https://github.com/Lallassu/googlehome/blob/master/ifttt_applet_howto.png" width="350"/>
