@@ -11,7 +11,7 @@ The script retrives all controls/lamps from the NetHome server and matches your 
 - IFTTT Account (https://ifttt.com) connected to your google account.
 - IFTTT Applet: (As the screenshot below)
 
-* note that the applet is not possible to publush as public since it uses the webhook service.
+Note that the applet is not possible to publish as public since it uses the webhook service.
 
 ## Usage
 First modify the scripts configure-section for your values of choice.
