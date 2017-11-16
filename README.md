@@ -1,4 +1,4 @@
-# googlehome
+# Google Home Automation
 Google Home (Assistant) Automation With Telldus
 
 ## Description
