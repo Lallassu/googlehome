@@ -17,5 +17,8 @@ The script retrives all controls/lamps from the NetHome server and matches your 
     */1 * * * * /bin/bash /path/to/start.sh
 
 2. Create an IFTTT applet like the screenshot shows. The only required change is the URL.
+<p align="center">
+  <img src="https://github.com/Lallassu/googlehome/blob/master/ifttt_applet_howto.png" width="350"/>
+</p>
 
 3. Hey google, light off bedroom!
