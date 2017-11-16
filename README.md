@@ -16,12 +16,16 @@ Note that the applet is not possible to publish as public since it uses the webh
 
 ## Usage
 First modify the scripts configure-section for your values of choice. And install required Ruby gems
+
     gem install awesome_print
     gem install net-http-server
     gem install fuzzy_match
     gem install httparty
+    
 Test if the script can execute:
+
     ruby ghome_server.rb
+    
 (Should output nothing, just starts to listen)
     
 1. Run the script on a server (I use an Raspberry PI 2). You can modify the "start.sh" script and make a cronjob for it in order to always make the script execute and restart if it fails.
