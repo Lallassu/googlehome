@@ -12,6 +12,8 @@ The script retrives all controls/lamps from the NetHome server and matches your 
 - IFTTT Applet: 
 
 ## Usage
+First modify the scripts configure-section for your values of choice.
+
 1. Run the script on a server (I use an Raspberry PI 2). You can modify the "start.sh" script and make a cronjob for it in order to always make the script execute and restart if it fails.
 
     */1 * * * * /bin/bash /path/to/start.sh
